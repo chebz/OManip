@@ -2,11 +2,11 @@ OManipSrc/Library/
 *.db
 OManipSrc/obj/
 *.apk
-OManipSrc/UnityVS.src.sln
-OManipSrc/UnityVS.src.userprefs
-OManipSrc/UnityVS.src.v12.suo
-OManipSrc/UnityVS.src.CSharp.Editor.csproj
-OManipSrc/UnityVS.src.CSharp.Plugins.csproj
-OManipSrc/UnityVS.src.CSharp.csproj
+OManipSrc/UnityVS.OManipSrc.sln
+OManipSrc/UnityVS.OManipSrc.userprefs
+OManipSrc/UnityVS.OManipSrc.v12.suo
+OManipSrc/UnityVS.OManipSrc.CSharp.Editor.csproj
+OManipSrc/UnityVS.OManipSrc.CSharp.Plugins.csproj
+OManipSrc/UnityVS.OManipSrc.CSharp.csproj
 *.sln
 OManipSrc/Assets/UnityVS.meta
