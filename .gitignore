@@ -1,0 +1,12 @@
+src/Library/
+*.db
+src/obj/
+*.apk
+src/UnityVS.src.sln
+src/UnityVS.src.userprefs
+src/UnityVS.src.v12.suo
+src/UnityVS.src.CSharp.Editor.csproj
+src/UnityVS.src.CSharp.Plugins.csproj
+src/UnityVS.src.CSharp.csproj
+*.sln
+src/Assets/UnityVS.meta
